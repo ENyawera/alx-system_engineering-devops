@@ -6,3 +6,4 @@
 6-firstdirectory - mkdir /tmp/my_first_directory
 7-movethatfile -Move the file betty from /tmp/ to /tmp/my_first_directory.
 8-firstdelete -delete betty
+9-firstdirdeletion -firstdirdeletion
